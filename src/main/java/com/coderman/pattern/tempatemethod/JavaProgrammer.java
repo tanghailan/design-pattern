@@ -1,4 +1,4 @@
-package com.coderman.pattern.templatemethod;
+package com.coderman.pattern.tempatemethod;
 
 /**
  * java程序员

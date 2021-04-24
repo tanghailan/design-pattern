@@ -1,4 +1,4 @@
-package com.coderman.pattern.templatemethod;
+package com.coderman.pattern.tempatemethod;
 
 /**
  * python程序员
